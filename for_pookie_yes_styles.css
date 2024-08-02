@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background-color: #DBBCF0;
+}
+
+.header_text {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 50px;
+	font-weight: bold;
+	color: #280D3A;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 0px;
+}
+
+.picture_container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
